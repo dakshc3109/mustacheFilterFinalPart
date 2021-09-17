@@ -5,8 +5,10 @@
 }
 
 #take_snapshot{
-    position: fixed;
-    bottom: 0;
+    margin-top: 400px;
+    animation-name: example;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
 }
 
 canvas{
